@@ -1,0 +1,64 @@
+https://marufmobin.github.io/collage-assingment-one/  --> govt site
+
+https://marufmobin.netlify.app/ --> portfolio site
+
+https://marufmobin.github.io/lucid-project/ --> Lucid Site 
+
+https://marufmobin.github.io/unique-project/ --> Unique Site
+
+https://marufmobin.github.io/assingmentTwo/ --> football site
+
+https://mackbooksite.netlify.app/ --> Mackbook site
+
+https://zulzana-coffie.web.app/ --> Coffie site
+
+https://travel-agency-c10b6.web.app/ --> Travel site
+
+https://hospitalwebapplication.web.app/ --> Hospital Site
+
+https://wedding-ceremony.netlify.app/ --> Marige Site
+
+https://varaitystore.netlify.app/ --> eshop site
+
+https://zulzana.netlify.app/ --> noha Site
+
+https://mealdbreact.netlify.app/ --> Restaurent site
+
+https://marufmobin.github.io/temperature-hot/ --> tempareture site
+
+https://marufmobin.github.io/api-examples/ --> Queto Site
+
+https://marufmobin.github.io/pinMatch/ --> Pin matcher 
+
+https://marufmobin.github.io/shopping-cart/ --> Shoping site
+
+https://marufmobin.github.io/spaceAmountCountCalculator/ --> Space Calculator
+
+https://marufmobin.github.io/bank-management/ --> Bapp ar Bank 
+
+https://marufmobin.github.io/copyToClipboard/ --> Coppy Past Site
+
+https://marufmobin.github.io/desimalToBinary/ --> Desimal to binary converter
+
+https://marufmobin.github.io/todoApp/ --> Todo App
+
+https://marufmobin.github.io/reen/ --> Reen Project
+
+https://marufmobin.github.io/automobile/ --> Auto Mobile site
+
+https://marufmobin.github.io/penguineBootstrap/ --> Penguine Site
+
+https://marufmobin.github.io/Animal-hospital/ --> Veterinarian Site
+
+https://marufmobin.github.io/portfolio/ --> html / css / Custom js Portfolio
+
+https://marufmobin.github.io/Panda/ --> Panda Site
+
+https://marufmobin.github.io/Avo/ --> Avo Site 
+
+https://marufmobin.github.io/leaderboard/ --> Leader Board site
+
+https://marufmobin.github.io/assingment/ --> Food Network Site
+
+
+
