@@ -1,20 +1,22 @@
-https://marufmobin.github.io/collage-assingment-one/  --> govt site
+https://zulzana-coffie.web.app/ --> Coffie site
 
 https://marufmobin.netlify.app/ --> portfolio site
 
+https://hospitalwebapplication.web.app/ --> Hospital Site
+
+https://travel-agency-c10b6.web.app/ --> Travel site
+
+https://marufmobin.github.io/automobile/ --> Auto Mobile site
+
 https://marufmobin.github.io/lucid-project/ --> Lucid Site 
+
+https://marufmobin.github.io/collage-assingment-one/  --> govt site
 
 https://marufmobin.github.io/unique-project/ --> Unique Site
 
 https://marufmobin.github.io/assingmentTwo/ --> football site
 
 https://mackbooksite.netlify.app/ --> Mackbook site
-
-https://zulzana-coffie.web.app/ --> Coffie site
-
-https://travel-agency-c10b6.web.app/ --> Travel site
-
-https://hospitalwebapplication.web.app/ --> Hospital Site
 
 https://wedding-ceremony.netlify.app/ --> Marige Site
 
@@ -43,8 +45,6 @@ https://marufmobin.github.io/desimalToBinary/ --> Desimal to binary converter
 https://marufmobin.github.io/todoApp/ --> Todo App
 
 https://marufmobin.github.io/reen/ --> Reen Project
-
-https://marufmobin.github.io/automobile/ --> Auto Mobile site
 
 https://marufmobin.github.io/penguineBootstrap/ --> Penguine Site
 
