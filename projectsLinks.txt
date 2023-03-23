@@ -1,3 +1,5 @@
+https://nftsell.netlify.app/ -> nft sell App
+
 https://date-kori.netlify.app/ --> Dating App
 
 https://marufmubin.github.io/Zulzana/ --> Yoga Site 
